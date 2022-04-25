@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi 👋 My name is Turker Kerim Akpinar
+=====================================
 
-<!--
-**turkerakpinar/turkerakpinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Computer Engineering Student at METU
+-------------------------------------------
 
-Here are some ideas to get you started:
+I am working as an Undergradute researcher at METU ROMER on Research and Development on Autonomous Driving in Robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Ankara and Istanbul
+* ✉️  You can contact me at [turkerakpnar@gmail.com](mailto:turkerakpnar@gmail.com)
+* 🤝  I'm open to collaborating on Robotics, autonomous driving, game development with unity...
+
+
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/turkerakpinar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
