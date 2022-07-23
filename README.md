@@ -1,14 +1,13 @@
 Hi 👋 My name is Turker Kerim Akpinar
 =====================================
 
-Junior Computer Engineering Student at METU
+Senior Computer Engineering Student at METU
 -------------------------------------------
 
-I am working as an Undergradute researcher at METU ROMER on Research and Development on Autonomous Driving in Robotics.
-
+I am working as an Software Engineering Intern at [Dream Games](https://dreamgames.com/).
 * 🌍  I'm based in Ankara and Istanbul
 * ✉️  You can contact me at [turkerakpnar@gmail.com](mailto:turkerakpnar@gmail.com)
-* 🤝  I'm open to collaborating on Robotics, autonomous driving, game development with unity...
+* 🤝  I'm open to collaborating on Robotics, game development with unity, autonomous driving...
 
 
 ### Socials
