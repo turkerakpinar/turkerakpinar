@@ -4,10 +4,10 @@ Hi 👋 My name is Turker Kerim Akpinar
 Senior Computer Engineering Student at METU
 -------------------------------------------
 
-I am working as an Software Engineering Intern at [Dream Games](https://dreamgames.com/).
+I am working as an Software Engineering Intern at [MagicLab Games](https://maglab.com.tr/).
 * 🌍  I'm based in Ankara and Istanbul
 * ✉️  You can contact me at [turkerakpnar@gmail.com](mailto:turkerakpnar@gmail.com)
-* 🤝  I'm open to collaborating on Robotics, game development with unity, autonomous driving...
+* 🤝  I'm open to collaborating on game development with unity, robotics,autonomous driving...
 
 
 ### Socials
