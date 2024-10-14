@@ -4,10 +4,12 @@ Hi 👋 My name is Turker Kerim Akpinar
 Senior Computer Engineering Student at METU
 -------------------------------------------
 
-I am working as an Software Engineering at [MagicLab Games](https://maglab.com.tr/).
+I am working as an Software Engineering at [Flatmind Games](http://flatmindgames.com.tr/).
 * 🌍  I'm based in Ankara.
 * ✉️  You can contact me at [turkerakpnar@gmail.com](mailto:turkerakpnar@gmail.com)
-* 🤝  I'm open to collaborating on game development with unity, robotics,autonomous driving...
+* 🤝  I'm open to collaborating on game development , game design, game publishing...
+ -------------------------------------------
+Graduted from Computer Engineering Student at METU
 
 
 ### Socials
