@@ -8,7 +8,7 @@ I am working as an Software Engineering at [Flatmind Games](http://flatmindgames
 * 🤝  I'm open to collaborating on game development , game design, game publishing...
 
  -------------------------------------------
-Graduted from Computer Engineering Student at METU
+Graduted from Computer Engineering at METU
 
 
 ### Socials
